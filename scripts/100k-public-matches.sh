@@ -1,0 +1,1 @@
+curl "https://api.opendota.com/api/explorer?sql=SELECT%20*%20FROM%20public_matches%20LIMIT%20100000" > 100k-public-matches.json
